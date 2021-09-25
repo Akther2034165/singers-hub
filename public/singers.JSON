@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Michael Jackson",
+    "age": "21",
+    "work": "singer",
+    "gender": "male",
+    "salary": "220000",
+    "img": "https://static.thetoptens.com/img/lists/5622.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Elvis Presley",
+    "age": "25",
+    " work": "singer",
+    "gender": "male",
+    "salary": "14500",
+    "img": "https://static.thetoptens.com/img/lists/682.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Robert Plant",
+    "age": "70",
+    "work": "singer",
+    "gender": "male",
+    "salary": "11000",
+    "img": "https://static.thetoptens.com/img/lists/14188.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Paul McCartney",
+    "age": "40",
+    "work": "singer",
+    "gender": "male",
+    "salary": "40000",
+    "img": "https://static.thetoptens.com/img/lists/14723.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Whiteney Houstaon",
+    "age": "45",
+    "work": "singer",
+    "gender": "female",
+    "salary": "12000",
+    "img": "https://static.thetoptens.com/img/lists/15980.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Jhon Lenon",
+    "age": "59",
+    "work": "singer",
+    "gender": "male",
+    "salary": "13400",
+    "img": "https://static.thetoptens.com/img/lists/3357.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Bruce Dickinson",
+    "age": "38",
+    "work": "singer",
+    "gender": "male",
+    "salary": "20000",
+    "img": "https://static.thetoptens.com/img/lists/49413.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Adele",
+    "age": "30",
+    "work": "singer",
+    "gender": "female",
+    "salary": "120000",
+    "img": "https://static.thetoptens.com/img/lists/4904lg.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Frank Sinatra",
+    "age": "39",
+    "work": "singer",
+    "gender": "male",
+    "salary": "10000",
+    "img": "https://static.thetoptens.com/img/lists/8418lg.jpg"
+  }
+]

@@ -3,7 +3,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="bg-secondary text-light p-3">
-      <div className="p-2">
+      <div className="header p-2">
         <h3>Best Singers of All Time</h3>
         <hr />
         <p>
