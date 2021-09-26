@@ -6,11 +6,13 @@ import "./SingersContainer.css";
 const SingersContainer = () => {
   const [singers, setSingers] = useState([]);
   const [cart, setCart] = useState([]);
+  //fetcing json using useEffect
   useEffect(() => {
     fetch("./singers.JSON")
       .then((res) => res.json())
       .then((data) => setSingers(data));
   }, []);
+  //handling cart & make a new array
   const handleAddToCart = (singer) => {
     const newCart = [...cart, singer];
     setCart(newCart);

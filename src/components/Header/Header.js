@@ -4,17 +4,24 @@ const Header = () => {
   return (
     <div className="bg-secondary text-light p-3">
       <div className="header p-2">
-        <h3>Best Singers of All Time</h3>
+        <h2>Singers Club</h2>
         <hr />
         <p>
           <small>
-            The top 10 best singers ever based on over 400,000 votes. The
-            greatest vocalists, frontmen, and divas from rock, pop, metal, and
-            more.
+            You can find and deal with The greatest vocalists, frontmen, and
+            divas from rock, pop, metal, and more here.
           </small>
         </p>
         <h4>
-          Total Budget : <span className="text-info">150 Million</span>
+          Total Budget : <span className="text-info">150 Million</span> <br />
+          <br />
+          <input
+            type="text"
+            placeholder="search your favourite singer"
+            name=""
+            id="input"
+          />
+          <button className="btn-success">Search</button>
         </h4>
       </div>
     </div>

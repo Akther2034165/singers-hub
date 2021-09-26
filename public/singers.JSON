@@ -79,5 +79,32 @@
     "gender": "male",
     "salary": "10000",
     "img": "https://static.thetoptens.com/img/lists/8418lg.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Chester Benington",
+    "age": "41",
+    "work": "singer",
+    "gender": "male",
+    "salary": "12000",
+    "img": "https://static.thetoptens.com/img/lists/15013.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Axl Rose",
+    "age": "39",
+    "work": "singer",
+    "gender": "male",
+    "salary": "9300",
+    "img": "https://static.thetoptens.com/img/lists/13736.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Chelinie Dion",
+    "age": "30",
+    "work": "singer",
+    "gender": "female",
+    "salary": "13000",
+    "img": "https://static.thetoptens.com/img/lists/3392.jpg"
   }
 ]
