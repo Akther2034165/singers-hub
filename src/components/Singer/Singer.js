@@ -13,6 +13,12 @@ const Singer = (props) => {
             <p>Age : {age}</p>
             <p>Salary : {salary}</p>
             <p>Profession : {work}</p>
+            <button
+              onClick={() => props.handleAddToCart(props.singer)}
+              className="btn-primary"
+            >
+              Selected
+            </button>
           </div>
         </div>
       </div>
