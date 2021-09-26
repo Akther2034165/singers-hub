@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { useEffect } from "react/cjs/react.development";
+import { useState, useEffect } from "react";
 import Cart from "../Cart/Cart";
 import Singer from "../Singer/Singer";
 import "./SingersContainer.css";
@@ -9,7 +8,7 @@ const SingersContainer = () => {
   const [cart, setCart] = useState([]);
   //fetcing json using useEffect
   useEffect(() => {
-    fetch("./singers.JSON")
+    fetch("/singers.JSON")
       .then((res) => res.json())
       .then((data) => setSingers(data));
   }, []);
