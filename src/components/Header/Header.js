@@ -5,6 +5,15 @@ const Header = () => {
     <div className="bg-secondary text-light p-3">
       <div className="header p-2">
         <h2>Singers Club</h2>
+        <input
+          type="text"
+          placeholder="search your favourite singer"
+          name=""
+          id="input"
+        />
+        <button className="btn-success" id="search-btn">
+          Search
+        </button>
         <hr />
         <p>
           <small>
@@ -15,13 +24,6 @@ const Header = () => {
         <h4>
           Total Budget : <span className="text-info">150 Million</span> <br />
           <br />
-          <input
-            type="text"
-            placeholder="search your favourite singer"
-            name=""
-            id="input"
-          />
-          <button className="btn-success">Search</button>
         </h4>
       </div>
     </div>
