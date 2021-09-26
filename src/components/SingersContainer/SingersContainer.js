@@ -8,7 +8,7 @@ const SingersContainer = () => {
   const [cart, setCart] = useState([]);
   //fetcing json using useEffect
   useEffect(() => {
-    fetch("/singers.JSON")
+    fetch("./singers.JSON")
       .then((res) => res.json())
       .then((data) => setSingers(data));
   }, []);
