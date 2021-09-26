@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="bg-secondary text-light p-3">
       <div className="header p-2">
-        <h2>Singers Club</h2>
+        <h2 className="text-info">Singers Hub</h2>
         <input
           type="text"
           placeholder="search your favourite singer"

@@ -2,8 +2,10 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
 import "./Cart.css";
+import AddSinger from "../AddSinger/AddSinger";
 const Cart = (props) => {
   const { cart } = props;
+  //using font aweosome icon
   const icon = <FontAwesomeIcon icon={faUser} />;
   //updating cart total
   let total = 0;
@@ -24,15 +26,9 @@ const Cart = (props) => {
         <h4>
           Total : $<span className="text-success">{total}</span>
         </h4>
-        <div>
-          {cart.map((soloSinger) => (
-            <div className="addSingerName">
-              <p className="p-4 text-center">
-                {soloSinger.name} {soloSinger.key}
-              </p>
-            </div>
-          ))}
-        </div>
+        {cart.map((soloSinger) => (
+          <AddSinger soloSinger={soloSinger} key={soloSinger.id} />
+        ))}
       </div>
     </div>
   );

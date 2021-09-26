@@ -1,24 +1,24 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Michael Jackson",
-    "age": "21",
+    "age": "19",
     "work": "singer",
     "gender": "male",
-    "salary": "220000",
+    "salary": "20000",
     "img": "https://static.thetoptens.com/img/lists/5622.jpg"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Robert Plant",
-    "age": "70",
+    "age": "79",
     "work": "singer",
     "gender": "male",
     "salary": "11000",
     "img": "https://static.thetoptens.com/img/lists/14188.jpg"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Elvis Presley",
     "age": "25",
     "work": "singer",
@@ -27,7 +27,7 @@
     "img": "https://static.thetoptens.com/img/lists/682.jpg"
   },
   {
-    "id": "4",
+    "id": 4,
     "name": "Paul McCartney",
     "age": "40",
     "work": "singer",
@@ -36,7 +36,7 @@
     "img": "https://static.thetoptens.com/img/lists/14723.jpg"
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Whiteney Houstaon",
     "age": "45",
     "work": "singer",
@@ -45,7 +45,7 @@
     "img": "https://static.thetoptens.com/img/lists/15980.jpg"
   },
   {
-    "id": "6",
+    "id": 6,
     "name": "Jhon Lenon",
     "age": "59",
     "work": "singer",
@@ -54,7 +54,7 @@
     "img": "https://static.thetoptens.com/img/lists/3357.jpg"
   },
   {
-    "id": "7",
+    "id": 7,
     "name": "Bruce Dickinson",
     "age": "38",
     "work": "singer",
@@ -63,25 +63,25 @@
     "img": "https://static.thetoptens.com/img/lists/49413.jpg"
   },
   {
-    "id": "8",
+    "id": 8,
     "name": "Adele",
-    "age": "30",
+    "age": "35",
     "work": "singer",
     "gender": "female",
     "salary": "120000",
     "img": "https://static.thetoptens.com/img/lists/4904lg.jpg"
   },
   {
-    "id": "9",
+    "id": 9,
     "name": "Frank Sinatra",
-    "age": "39",
+    "age": "37",
     "work": "singer",
     "gender": "male",
     "salary": "10000",
     "img": "https://static.thetoptens.com/img/lists/8418lg.jpg"
   },
   {
-    "id": "10",
+    "id": 10,
     "name": "Chester Benington",
     "age": "41",
     "work": "singer",
@@ -90,7 +90,7 @@
     "img": "https://static.thetoptens.com/img/lists/15013.jpg"
   },
   {
-    "id": "11",
+    "id": 11,
     "name": "Axl Rose",
     "age": "39",
     "work": "singer",
@@ -99,7 +99,7 @@
     "img": "https://static.thetoptens.com/img/lists/13736.jpg"
   },
   {
-    "id": "12",
+    "id": 12,
     "name": "Chelinie Dion",
     "age": "30",
     "work": "singer",

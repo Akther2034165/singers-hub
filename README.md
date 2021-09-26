@@ -1,4 +1,12 @@
-# Singers Club
+# Application Name : Singers Club
 
-live site link ('https:/www.github.com/akthe2034165')
-This is simple website.Using this website you can deal with most popular singer around the world.
+- This is an application which is select singer for concert.
+- This application also calculate the salary amount of those selected singer.
+- It will shows you most popular singer of the world.You cant select a singer multiple times.
+
+## Tools
+
+- Boostraps Framework
+- React js
+
+## Live Site Link

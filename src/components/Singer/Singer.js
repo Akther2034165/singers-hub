@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
 import "./Singer.css";
 const Singer = (props) => {
+  //destructuring
   const { name, img, gender, salary, age, work } = props.singer;
   //calling font awesome icon
   const btnIcon = <FontAwesomeIcon icon={faPlus} />;
