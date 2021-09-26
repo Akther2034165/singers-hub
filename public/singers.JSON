@@ -10,21 +10,21 @@
   },
   {
     "id": "2",
-    "name": "Elvis Presley",
-    "age": "25",
-    " work": "singer",
-    "gender": "male",
-    "salary": "14500",
-    "img": "https://static.thetoptens.com/img/lists/682.jpg"
-  },
-  {
-    "id": "3",
     "name": "Robert Plant",
     "age": "70",
     "work": "singer",
     "gender": "male",
     "salary": "11000",
     "img": "https://static.thetoptens.com/img/lists/14188.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Elvis Presley",
+    "age": "25",
+    "work": "singer",
+    "gender": "male",
+    "salary": "14500",
+    "img": "https://static.thetoptens.com/img/lists/682.jpg"
   },
   {
     "id": "4",
