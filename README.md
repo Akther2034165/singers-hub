@@ -1,4 +1,4 @@
-# Application Name : Singers Club
+# Application Name : Singers Hub
 
 - This is an application which is select singer for concert.
 - This application also calculate the salary amount of those selected singer.
